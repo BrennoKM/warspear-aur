@@ -1,0 +1,9 @@
+# Saída do makepkg: nada aqui é fonte, tudo se refaz rodando `makepkg` de novo.
+pkg/
+src/
+
+# O .deb baixado do fornecedor e o pacote construído. São centenas de MB, e o
+# jogo é proprietário (AIGRIND-1.0, non-free): não se redistribui.
+*.deb
+*.pkg.tar.zst
+*.pkg.tar.xz
