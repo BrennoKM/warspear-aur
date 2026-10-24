@@ -31,7 +31,7 @@ aqui, e nada deve ser adicionado.
 
 | | upstream (AUR) | aqui |
 |---|---|---|
-| `pkgver` | 13.4.2 | **13.4.3** |
+| `pkgver` | 13.4.2 | **13.6.0** |
 
 Nada mais foi alterado além do `pkgver`, dos dois `sha512sums` e do cabeçalho
 de mantenedor.
